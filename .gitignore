@@ -1,0 +1,6 @@
+augmented_data/
+*.jpg
+*.png
+*.txt
+__pycache__/
+*.pyc
