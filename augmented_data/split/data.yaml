@@ -1,0 +1,6 @@
+path: augmented_data/split
+train: train/images
+val: val/images
+test: test/images
+nc: 4
+names: ['Solid', 'Stripe', 'Black', 'Cue']
